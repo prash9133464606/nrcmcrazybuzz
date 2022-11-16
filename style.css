@@ -1,0 +1,39 @@
+.top {
+    font-size: larger;
+    font-weight: bolder;
+    color: yellow;
+    background-color:black;
+    text-align: center;
+    text-decoration: double;
+    text-decoration-style: dotted;
+    img src:"https://img.freepik.com/free-vector/namaste-greeting-decorative-background_23-2147691320.jpg?size=338&ext=jpg&ga=GA1.2.1637327087.1668516371";
+
+}
+.PARA {
+    img src:"https://images.static-collegedunia.com/public/college_data/images/appImage/_app%20image%201nrcm.jpg?tr=c-force";
+}
+.HIGH-LIGHT {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:violet;
+}
+.main-top {
+    img size:cover;
+}
+.HIGH-LIGHT2 {
+color: blue;
+text-align: right;
+font-size: smaller;
+}
+.HIGH-LIGHT3 {
+    color: burlywood;
+    background-color: cornflowerblue;
+    font-style: oblique;
+    text-align: center;
+}
+,fl {
+    text-align: left;
+}
+.p1{
+    color:red;
+    text-align: center;
+}
